@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+  height: 100vh;
+  color: white;
+}
+
+.heading{
+  text-align: center;
+  color: white;
+}
